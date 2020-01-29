@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-VS-Computer
 Tic Tac Toe game for one player vs computer, which should be competitive, with a simple GUI for a better game experience.
 
-
+* The software was written in a single file (with multiple functions) in order to fit the exercise requirements.
 
 Solution plan:
 =
